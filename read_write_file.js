@@ -36,6 +36,10 @@ function readFromFile(fileName) {
 */
 function writeToFile(invitedCustomers, fileName) {
   return new Promise((resolve, reject) => {
+    if (!Array.isArray(invitedCustomers)) {
+      reject("Please provide an array of customers");
+    }
+
     if (invitedCustomers.length === 0) {
       reject("There are no customers to write");
     }

@@ -54,6 +54,21 @@ describe("Read - Write File", () => {
       }
     });
 
+    it("should check whether customers are in correct type", async () => {
+      invitedCustomers = {};
+      try {
+        await writeToFile(invitedCustomers, output);
+      } catch (error) {
+        expect(error).to.equal("Please provide an array of customers");
+      }
+      invitedCustomers = "";
+      try {
+        await writeToFile(invitedCustomers, output);
+      } catch (error) {
+        expect(error).to.equal("Please provide an array of customers");
+      }
+    });
+
     it("should check whether there are customers to invite", async () => {
       invitedCustomers = [];
       try {
