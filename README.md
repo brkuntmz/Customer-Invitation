@@ -3,7 +3,7 @@ Finding customers to invite within 100km distance via great circle distance
 
 
 ## Get Started
-The project is writted in NodeJS, and expected to have node runtime to run the code
+The project is written in NodeJS, and expected to have node runtime to run the code
 
 To install the deps and testing the code, mocha and chai libs are necessary:
  `npm install`
