@@ -1,0 +1,16 @@
+{"id":4,"name":"Ian Kehoe","dist":"10.56694"} 
+{"id":5,"name":"Nora Dempsey","dist":"23.28732"} 
+{"id":6,"name":"Theresa Enright","dist":"24.08536"} 
+{"id":8,"name":"Eoin Ahearn","dist":"83.53253"} 
+{"id":11,"name":"Richard Finnegan","dist":"38.13757"} 
+{"id":12,"name":"Christina McArdle","dist":"41.76873"} 
+{"id":13,"name":"Olive Ahearn","dist":"62.23170"} 
+{"id":15,"name":"Michael Ahearn","dist":"43.72249"} 
+{"id":17,"name":"Patricia Cahill","dist":"96.07860"} 
+{"id":23,"name":"Eoin Gallagher","dist":"82.69493"} 
+{"id":24,"name":"Rose Enright","dist":"89.03103"} 
+{"id":26,"name":"Stephen McArdle","dist":"98.87460"} 
+{"id":29,"name":"Oliver Ahearn","dist":"72.20179"} 
+{"id":30,"name":"Nick Enright","dist":"82.64285"} 
+{"id":31,"name":"Alan Behan","dist":"44.29082"} 
+{"id":39,"name":"Lisa Ahearn","dist":"38.35801"} 
