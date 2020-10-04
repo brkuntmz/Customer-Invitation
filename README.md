@@ -1,11 +1,11 @@
 # Customer-invitation
-Finding customers to invite within 100km distance via great circle distance
+Finding customers to invite within 100km distance of Dublin (default destination) via [great circle distance](https://en.wikipedia.org/wiki/Great-circle_distance)
 
 
-## Get Started
-The project is written in NodeJS, and expected to have node runtime to run the code
+## Getting Started
+The project is written in NodeJS, and you need to have [NodeJS](https://nodejs.org/en/) runtime in your machine to run the code
 
-To install the deps and testing the code via mocha and chai:
+After downloading the runtime, to install the deps and testing the code via mocha and chai:
  `npm install`
  
 ## Important Requirements
